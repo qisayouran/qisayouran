@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qisayun&theme=cobalt)](https://github.com/qisayun/qisayun)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qisayun&repo=qisayun)](https://github.com/qisayun/qisayun)
+**[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qisayun&repo=qisayun)](https://github.com/qisayun/qisayun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qisayun)](https://github.com/qisayun/qisayun)
