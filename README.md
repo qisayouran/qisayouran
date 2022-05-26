@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-🔭 我目前正在
+-🌱 我目前正在学习
+-👯 我希望在以下方面进行合作
+-🤔 我正在寻求帮助
+-💬 询问我关于
+-📫 如何联系我：
+-😄 代词：
+-⚡ 有趣的事实：
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qisayun&theme=cobalt)](https://github.com/qisayun/qisayun)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qisayun&repo=qisayun)](https://github.com/qisayun/qisayun) -->
